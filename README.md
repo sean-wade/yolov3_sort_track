@@ -1,2 +1,22 @@
-# yolov3_sort_track
-Track objects with yolov3 &amp;&amp; simple sort on cpu
+# YOLOv3_SORT
+This is a simple multi-object tracking system.
+
+### Instruction
+
+To run this code，Run detrk.py to see the detection and association results. You can also edit some arguments to meet different situations.
+
+
+### Requirements
+
+    python3.5
+    numpy
+    opencv-python
+    numba
+    matplotlib
+    scikit-image
+    sklearn
+    filterpy
+ 
+
+### Author
+    zhanghao@yijiahe.com
