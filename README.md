@@ -19,4 +19,4 @@ To run this code，Run detrk.py to see the detection and association results. Yo
  
 
 ### Author
-    zhanghao@yijiahe.com
+    954217436@qq.com
